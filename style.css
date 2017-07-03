@@ -1,0 +1,20 @@
+p {
+	color:#c32017;
+}
+
+.what{
+	color:#6bc5e3;
+}
+
+#header{
+	color:#20B2AA;
+}
+
+div h2 li {
+	color:#008080;
+}
+
+body {
+    /*background-image: url("images/Grey.jpg"); /* Путь к фоновому изображению */
+    background-color: #c7b39b; /* Цвет фона */
+   }
